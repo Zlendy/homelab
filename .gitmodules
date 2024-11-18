@@ -1,3 +1,4 @@
 [submodule "sartre"]
 	path = sartre
 	url = git@github.com:Zlendy/homelab-sartre.git
+	branch = main
